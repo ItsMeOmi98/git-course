@@ -1,3 +1,6 @@
 This is a first file in folder theree.
 
 add another text to the demo file.
+add another text to the demo file.
+add another text to the demo file.add another text to the demo file.
+add another text to the demo file.
